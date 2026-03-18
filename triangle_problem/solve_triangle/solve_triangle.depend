@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773793191 source:d:\triangle-problem_credit-transfer_procedural-design-implementation\triangle_problem\solve_triangle\main.c
+	<stdio.h>
+	<stdbool.h>
+
